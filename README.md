@@ -1,7 +1,7 @@
 # COMP3421 Web Project
 We are designed to build up an e-commerce website which is for computer parts shopping.
 
-* Import notice: this repository code is shared with "COMP3334_Web_Project_GP38".
+Import notice: this repository code is shared with "COMP3334_Web_Project_GP38".
 
 # Overview
 In this project, we are going to design an e-commerce website which is for computer parts shopping. Users visit the shopping website to browse for products, add products to the cart, and pay.
