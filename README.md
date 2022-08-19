@@ -1,4 +1,4 @@
-# COMP3421_Web_Project
+# COMP3421 Web Project
 We are designed to build up an e-commerce website which is for computer parts shopping.
 
 # Overview
