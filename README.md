@@ -22,7 +22,7 @@ In this project, we are going to design an e-commerce website which is for compu
 * Shopping cart
 * Payment system
 
-## Designed page
+## Designed pages
 
 The detailed page of the website will be shown as a table below:
 <table>
