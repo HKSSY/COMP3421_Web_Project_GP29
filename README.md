@@ -41,7 +41,7 @@ The detailed page of the website will be shown as a table below:
         </tr>
         <tr>
             <td>login.php<br>authenticate.php</td>
-            <td><ul><li>Use id or email and password to login</li><li>Remember login status using cookie</li></ul></td>
+            <td>Use id or email and password to login<br>Remember login status using cookie</td>
         </tr>
         <tr>
             <td>logout.php</td>
