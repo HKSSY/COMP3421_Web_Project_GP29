@@ -37,11 +37,11 @@ The detailed page of the website will be shown as a table below:
         <tr>
             <td rowspan=3>User Registration, Login and Logout</td>
             <td>sign_up.php</td>
-            <td>Registrar an account of the system<br>Common information: login id, nick name, email, password, birthday, and gender</td>
+            <td>- Registrar an account of the system<br>- Common information: login id, nick name, email, password, birthday, and gender</td>
         </tr>
         <tr>
             <td>login.php<br>authenticate.php</td>
-            <td>Use id or email and password to login<br>Remember login status using cookie</td>
+            <td>- Use id or email and password to login<br>- Remember login status using cookie</td>
         </tr>
         <tr>
             <td>logout.php</td>
